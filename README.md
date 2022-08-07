@@ -15,3 +15,5 @@
 **NETWHAT (Obsoleto) **<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6hw44n6000609l6u40812vs/project/1746054" alt="cbonilla's 42 netwhat Score" /></a>
 
 LIBFT <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6hw44n6000609l6u40812vs/project/1621966" alt="cbonilla's 42 Libft Score" /></a>
+
+Aque aqui **si que funcionas** payaso
