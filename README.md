@@ -14,3 +14,5 @@
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6hw44n6000609l6u40812vs/project/2093960" alt="cbonilla's 42 ft_server Score" /></a>
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6hw44n6000609l6u40812vs/project/2623025" alt="cbonilla's 42 pipex Score" /></a>
+
+[![cbonilla's 42 Libft Score](https://badge42.vercel.app/api/v2/cl6hw44n6000609l6u40812vs/project/1621966)](https://github.com/JaeSeoKim/badge42)
