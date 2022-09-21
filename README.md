@@ -3,6 +3,7 @@
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6hw44n6000609l6u40812vs/stats?cursusId=21&coalitionId=66" alt="cbonilla's 42 stats" /></a>
 
+### PUSH_SWAP <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6hw44n6000609l6u40812vs/project/2623025" alt="cbonilla's 42 push_swap Score" /></a>
 
 ### PIPEX <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6hw44n6000609l6u40812vs/project/2623025" alt="cbonilla's 42 pipex Score" /></a>
 
